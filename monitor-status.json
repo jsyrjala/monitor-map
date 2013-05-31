@@ -1,0 +1,20 @@
+{"locations":
+[{"latitude":"60.1708",
+  "longitude": "24.9375",
+  "name": "System X, Helsinki",
+  "status": "normal",
+  "message":"all systems ok"},
+
+ {"latitude":"62.2500",
+  "longitude": "25.7500",
+  "name": "System Y, Jyväskylä",
+  "status": "error",
+  "message":"everything broken"},
+
+{"latitude":"60.2100",
+  "longitude": "24.6600",
+  "name": "System Z, Espoo",
+  "status": "warn",
+  "message":"something is fishy"}
+  ]
+}
